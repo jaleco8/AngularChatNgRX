@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngularChatNgRX"
+    }
+  },
+  "defaultProject": "AngularChatNgRX",
+  "cli": {
+    "analytics": "8a6e17b8-8d1a-437a-bae0-bbc4458a1c96"
+  }
 }
